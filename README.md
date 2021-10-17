@@ -97,6 +97,12 @@ ugryhacks_phpmyadmin_1   /docker-entrypoint.sh apac ...   Up      0.0.0.0:4040->
 
 
 
+app
+http://localhost:8080/
+
+phpmyadmin
+http://localhost:4040/
+
 
 
 
